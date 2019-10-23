@@ -1,4 +1,4 @@
-class Oowebserver < Formula
+class Oohttp < Formula
     desc "oohttp is a golang binary tool for quickstart a local webserver"
     homepage "https://github.com/zhouyuanzhen/oohttp"
     url "https://github.com/zhouyuanzhen/oohttp/releases/download/v0.9.0/oohttp_macos"
