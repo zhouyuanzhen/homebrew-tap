@@ -20,6 +20,8 @@ brew update
 brew install oohttp
 
 brew install --HEAD zhouyuanzhen/tap/helloworld-c
+# OR
+brew install --HEAD helloworld-c
 
 ```
 

@@ -16,7 +16,7 @@ class HelloworldC < Formula
     end
 
     def test
-        puts 'Run test ...'
+        puts 'Test with helloworld-c ...'
         ohai `helloworld-c`.chomp
     end
 
