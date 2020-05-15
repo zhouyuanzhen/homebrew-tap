@@ -1,4 +1,5 @@
 # homebrew-tap
+
 Yuanzhen 's HomeBrew Tap repository
 
 ## QuickStart
@@ -15,9 +16,14 @@ brew update
 ### Play with homebrew
 
 ```shell
+
 brew install oohttp
+
+brew install --HEAD zhouyuanzhen/tap/helloworld-c
+
 ```
 
 ## End
 
 Enjoy with it:)
+
