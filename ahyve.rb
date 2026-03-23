@@ -1,7 +1,7 @@
 class Ahyve < Formula
   desc "A lightweight virtualize engine for macOS."
   homepage "https://github.com/zhouyuanzhen"
-  version "0..0"
+  version "0.9.0"
 
   on_macos do
     if Hardware::CPU.arm?

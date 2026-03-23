@@ -17,7 +17,8 @@ brew update
 
 ```shell
 
-brew install oohttp
+brew install zhouyuanzhen/tap/ahyve
+ahyve -h
 
 brew install --HEAD zhouyuanzhen/tap/helloworld-c
 # OR
